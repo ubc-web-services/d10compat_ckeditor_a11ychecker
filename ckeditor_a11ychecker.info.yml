@@ -2,7 +2,7 @@ name: CKEditor Accessibility Checker
 type: module
 description: "Adds the Accessibility Checker plugin to CKEditor."
 package: CKEditor
-core_version_requirement: ^10
+core_version_requirement: ^9.3 || ^10
 
 dependencies:
   - drupal:ckeditor

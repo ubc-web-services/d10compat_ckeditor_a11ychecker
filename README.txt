@@ -1,3 +1,10 @@
+CKEditor Accessibility Checker - Drupal 10
+==============================
+
+This repo has the Drupal rector patch applied to make it Drupal 10 compatible.
+https://www.drupal.org/files/issues/2022-07-18/ckeditor_a11ychecker.2.0.x-dev.rector.patch
+
+
 CKEditor Accessibility Checker
 ==============================
 
