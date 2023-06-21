@@ -1,5 +1,5 @@
 {
-    "name": "drupal/ckeditor_a11ychecker",
+    "name": "ubc-web-services/d10compat_ckeditor_a11ychecker",
     "type": "drupal-module",
     "description": "Adds the Accessibility Checker plugin to CKEditor.",
     "keywords": [
